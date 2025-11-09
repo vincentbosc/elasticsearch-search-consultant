@@ -1,3 +1,32 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+/* --- Learning Notebook tweaks --- */
+
+body {
+  font-size: 17px;
+  line-height: 1.7;
+}
+
+/* Headings spacing */
+h1, h2, h3 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+/* Link hover */
+a:hover {
+  text-decoration: underline;
+}
+
+/* Rounded code blocks */
+pre, code {
+  border-radius: 8px;
+}
+
+/* Content width for readability */
+.main {
+  max-width: 750px;
+  margin: auto;
+  padding: 2rem 1.5rem;
+}
