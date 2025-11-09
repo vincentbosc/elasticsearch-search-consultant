@@ -1,8 +1,8 @@
 ## Internal Slack channels to join
-- #search-ai
-- #relevance-studio
-- #search-consulting-team
-- #services-search-experts
+- search-ai
+- relevance-studio
+- search-consulting-team
+- services-search-experts
 ## External people to follow
 
 - Doug Turnbull: [https://www.linkedin.com/in/softwaredoug/](https://www.linkedin.com/in/softwaredoug/) 
@@ -12,6 +12,6 @@
 - Jo Kristian Bergum: [https://www.linkedin.com/in/jo-bergum/](https://www.linkedin.com/in/jo-bergum/) 
 
 Slack channel discussing Search (you’ll find all the people mentioned above plus our own Ben Trent, Philipp Krenn, etc..): [https://relevancy.slack.com/](https://relevancy.slack.com/)
-- #general
-- #blogs-papers-book 
-- #elasticsearch 
+- general
+- blogs-papers-book 
+- elasticsearch 
