@@ -41,7 +41,8 @@ The material draws on community-curated knowledge plus practical experience from
 3. **Search UX & Design** — autocomplete, facets, navigation, zero-results  
 4. **Measurement & Feedback Loops** — query logs, click analytics, evaluation frameworks  
 5. **Semantic & Vector Search** — when and how to mix lexical + semantic retrieval  
-6. **Search as a Product** — stakeholder alignment, success metrics, iteration strategies  
+6. **Search as a Product** — stakeholder alignment, success metrics, iteration strategies
+7. [[Join the Search Community]]
 
 ---
 
