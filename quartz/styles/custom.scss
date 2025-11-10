@@ -31,22 +31,56 @@ pre, code {
   padding: 2rem 1.5rem;
 }
 
-/* --- Table of Contents font adjustments --- */
-.right-sidebar .toc {
-  font-size: 0.85rem;        /* smaller font size */
-  line-height: 1.4;          /* tighter spacing */
+/* --- TOC size tweaks --- */
+
+/* Container (entire TOC on the right) */
+.toc.desktop-only {
+  font-size: 0.85rem !important;
+  line-height: 1.4 !important;
 }
 
-.right-sidebar .toc a {
-  font-size: 0.85rem;
-  color: var(--secondary);   /* optional: match your accent color */
+/* Links inside the TOC */
+.toc.desktop-only a {
+  font-size: 0.85rem !important;
 }
 
-.right-sidebar .toc a:hover {
-  text-decoration: underline;
+/* Optional: make nested items slightly indented */
+.toc.desktop-only ul ul {
+  margin-left: 0.8rem !important;
 }
 
-/* Optional: reduce indentation for nested items */
-.right-sidebar .toc ul ul {
-  margin-left: 0.8rem;
+/* --- Left Sidebar (Explorer) tweaks --- */
+
+/* Overall sidebar link size and spacing */
+.sidebar.left {
+  font-size: 0.9rem !important;
+  line-height: 1.5 !important;
+}
+
+/* Explorer heading (“Explorer”) */
+.sidebar.left h2,
+.sidebar.left .explorer-header {
+  font-size: 0.85rem !important;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  opacity: 0.7;
+  font-weight: 600;
+  margin-bottom: 0.3rem;
+}
+
+/* Individual page links */
+.sidebar.left a {
+  font-size: 0.9rem !important;
+  font-weight: 500 !important;
+  color: var(--darkgray);
+}
+
+.sidebar.left a:hover {
+  color: var(--secondary);
+}
+
+/* Optional: make selected link stand out */
+.sidebar.left a.active {
+  color: var(--secondary);
+  font-weight: 600 !important;
 }
