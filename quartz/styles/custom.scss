@@ -30,3 +30,23 @@ pre, code {
   margin: auto;
   padding: 2rem 1.5rem;
 }
+
+/* --- Table of Contents font adjustments --- */
+.right-sidebar .toc {
+  font-size: 0.85rem;        /* smaller font size */
+  line-height: 1.4;          /* tighter spacing */
+}
+
+.right-sidebar .toc a {
+  font-size: 0.85rem;
+  color: var(--secondary);   /* optional: match your accent color */
+}
+
+.right-sidebar .toc a:hover {
+  text-decoration: underline;
+}
+
+/* Optional: reduce indentation for nested items */
+.right-sidebar .toc ul ul {
+  margin-left: 0.8rem;
+}
