@@ -1,12 +1,6 @@
 ---
 title: From Elasticsearch Consultant to Search Specialist
 ---
----
-# From Elasticsearch Consultant to Search Specialist  
-**Mastering the craft of relevance and search experience**
-
----
-
 ## Why this site exists  
 Elasticsearch consultants already know how to build, scale, and secure clusters.  
 But the real power of search lies beyond the infrastructure — it’s in how people *find* and *understand* information.  
