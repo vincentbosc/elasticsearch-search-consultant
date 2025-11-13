@@ -1,0 +1,10 @@
+---
+title: Search Consulting Engagements
+---
+Here is a selection of recent Search consulting engagements, each with a link to its corresponding reports. These examples offer a concrete view of what real-world Search work typically involves.
+
+| Customer     | Search Target                                          | Description                                                                                                                                                                        | Report Link                                                                                     |
+| ------------ | ------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| Tesco        | Retail product catalog (e-commerce search)             | Redesign Tesco’s search: Querqy for query rewriting, systematic relevance evaluation, best practices for e-commerce optimization. Tuning relevance, synonyms, boosting strategies. | [Link](https://drive.google.com/drive/folders/1tSEBJSH8htJtXkWEj3q37pYP9Mfqm9_q?usp=drive_link) |
+| CJUE         | Multilingual legal documents, and related news reports | Improved Elasticsearch-based legal search: data modeling, query optimization, relevance tuning, query relaxing, cross-language search, score harmonizing, highlighting.            |                                                                                                 |
+| Panasonic ST | Patents in Japanese, English, and Chinese              | POC for patent search using Elasticsearch: document structure, indexing, search features. Replacement for self-made engine.                                                        | [Link](https://drive.google.com/drive/folders/1Kaqe51M2Em6rW3_ck7nzHOCp70eQjh4a)                |
