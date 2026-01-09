@@ -10,12 +10,12 @@ interface ContentMetaOptions {
   /**
    * Whether to display reading time
    */
-  showReadingTime: boolean
+  showReadingTime: false
   showComma: boolean
 }
 
 const defaultOptions: ContentMetaOptions = {
-  showReadingTime: true,
+  showReadingTime: false,
   showComma: true,
 }
 
