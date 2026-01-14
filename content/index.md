@@ -20,6 +20,6 @@ This site exists to help consultants make that transition — from **managing El
 ## What you’ll find here  
 The material draws on community-curated knowledge plus practical experience from real-world projects.  
 
-1. [[Search concepts]]
+1. [[Search knowledge base]]
 2. [[Join the Search Community]]
 3. [[Search Consulting Engagements]]
